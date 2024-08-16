@@ -1,7 +1,7 @@
 # MS Annika 3.0 Non-Cleavable Crosslink Search Results
 
 This repository contains scripts used for the analysis and visualization of the
-results of the [MS Annika 3.0]() non-cleavable crosslink search.
+results of the [MS Annika 3.0](https://github.com/hgb-bin-proteomics/MSAnnika) non-cleavable crosslink search.
 
 The structure of this repository is as follows:
 - `CElegansFasta`: Creation of the filtered *C. elegans* protein database
