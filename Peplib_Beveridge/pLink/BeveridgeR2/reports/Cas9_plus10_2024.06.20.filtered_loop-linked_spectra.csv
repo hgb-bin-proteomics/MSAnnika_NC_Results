@@ -1,0 +1,2 @@
+Order,Title,Charge,Precursor_Mass,Peptide,Peptide_Type,Linker,Peptide_Mass,Modifications,Evalue,Score,Precursor_Mass_Error(Da),Precursor_Mass_Error(ppm),Proteins,Protein_Type,FileID,LabelID,Alpha_Matched,Beta_Matched,Alpha_Evalue,Beta_Evalue
+1,XLpeplib_Beveridge_QEx-HFX_DSS_R2.14220.14220.2.0.dta,2,1498.811008,KLVDSTDKADLR(1)(8),Loop-Linked,DSS,1498.811077,null,1.000000e+000,1.880697e-004,-0.000069,-0.046036,Cas9(145)(152)/,None,1,1,9.0,0.0,1.000000e+000,1.000000e+000

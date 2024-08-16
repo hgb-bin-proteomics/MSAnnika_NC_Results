@@ -1,0 +1,16 @@
+﻿<Modifications>
+  <Modification Version="1" Name="ADH Amidated" Abbreviation="ADH:NH3" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="155.1170954515" DeltaAverageMass="155.1170954515" IsSubstitution="False" LeavingGroup="" Substitution="H(13) C(6) N(5)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="D" Classification="Crosslink" />
+      <Target AminoAcid="E" Classification="Crosslink" />
+    </ModificationTargets>
+  </Modification>
+</Modifications>

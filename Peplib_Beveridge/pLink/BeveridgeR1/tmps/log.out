@@ -1,0 +1,440 @@
+[debug] Loading element settings...
+[debug] Loading Quant settings...
+[debug] Loading enzyme settings...
+[debug] Loading amino acids settings...
+[debug] Loading modification settings...
+[debug] Loading linker settings...
+[debug] Initialize constants...
+[debug] Loading sumo settings...
+[debug] Loading instrument settings...
+[debug] Loading database settings...
+[pLink] Generating reverse database...
+[pLink] Search identifier: ZJKEP
+[pLink] Search Engine is ready to search.
+
+[debug] Initialize search state...
+[debug] Initialize thread state...
+[debug] Initialized Searcher::init()
+[debug] Preprocess Initialized.
+[debug] OpenScorer Initialized.
+[debug] OpenScorer Initialized.
+[debug] RefinedScorer Initialized.
+[debug] ModificationDecorator Initialized.
+[debug] XLink Initialized.
+[debug] Preprocess Initialized.
+[debug] OpenScorer Initialized.
+[debug] OpenScorer Initialized.
+[debug] RefinedScorer Initialized.
+[debug] ModificationDecorator Initialized.
+[debug] XLink Initialized.
+[debug] Preprocess Initialized.
+[debug] OpenScorer Initialized.
+[debug] OpenScorer Initialized.
+[debug] RefinedScorer Initialized.
+[debug] ModificationDecorator Initialized.
+[debug] XLink Initialized.
+[debug] Preprocess Initialized.
+[debug] OpenScorer Initialized.
+[debug] OpenScorer Initialized.
+[debug] RefinedScorer Initialized.
+[debug] ModificationDecorator Initialized.
+[debug] XLink Initialized.
+[pLink] Start searching C:\Users\P42587\Downloads\New folder\XLpeplib_Beveridge_QEx-HFX_DSS_R1_HCDFT.pf2, Labeling None
+[debug] Current time: Thu Jun 20 13:26:54 2024
+
+[pLink] Total spectra: 13656
+[pLink] Loaded 3415 spectra, 3415 / 13656
+[debug] init match results...
+[debug] Current time: Thu Jun 20 13:26:54 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 20 13:26:54 2024
+
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 20 13:26:54 2024
+
+[debug] Peptide Bit Index Initialized.
+[debug] Total Protein Number = 22
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 20 13:26:54 2024
+
+[pLink] Loaded 3415 spectra, 6830 / 13656
+[debug] init match results...
+[debug] Current time: Thu Jun 20 13:26:54 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 20 13:26:54 2024
+
+[debug] Start Time: Thu Jun 20 13:26:54 2024
+        Time cost: 0.047s
+        Identifier: 
+        Proteins: 22 / 22
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 20 13:26:54 2024
+
+[debug] Peptide Bit Index Initialized.
+[debug] Total Protein Number = 22
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 20 13:26:54 2024
+
+[pLink] Loaded 3415 spectra, 10245 / 13656
+[debug] init match results...
+[debug] Current time: Thu Jun 20 13:26:54 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 20 13:26:54 2024
+
+[debug] Start Time: Thu Jun 20 13:26:54 2024
+        Time cost: 0.029s
+        Identifier: 
+        Proteins: 22 / 22
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 20 13:26:54 2024
+
+[debug] Peptide Bit Index Initialized.
+[debug] Total Protein Number = 22
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 20 13:26:54 2024
+
+[pLink] Loaded 3411 spectra, 13656 / 13656
+[debug] init match results...
+[debug] Current time: Thu Jun 20 13:26:54 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 20 13:26:54 2024
+
+[debug] Start Time: Thu Jun 20 13:26:54 2024
+        Time cost: 0.031s
+        Identifier: 
+        Proteins: 22 / 22
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Peptide Bit Index Initialized.
+[debug] Total Protein Number = 22
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Start Time: Thu Jun 20 13:26:55 2024
+        Time cost: 0.029s
+        Identifier: 
+        Proteins: 22 / 22
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Start Time: Thu Jun 20 13:26:54 2024
+        Time cost: 0.739s
+        Identifier: 
+        Proteins: 22 / 22
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Start Time: Thu Jun 20 13:26:55 2024
+        Time cost: 0.024s
+        Identifier: 
+        Proteins: 22 / 22
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Saved File0.Label0.Tmp0.pfd
+[debug] Start Time: Thu Jun 20 13:26:54 2024
+        Time cost: 0.815s
+        Identifier: 
+        Proteins: 22 / 22
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Start Time: Thu Jun 20 13:26:55 2024
+        Time cost: 0.022s
+        Identifier: 
+        Proteins: 22 / 22
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Start Time: Thu Jun 20 13:26:54 2024
+        Time cost: 0.847s
+        Identifier: 
+        Proteins: 22 / 22
+[debug] Saved File0.Label0.Tmp1.pfd
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Start Time: Thu Jun 20 13:26:55 2024
+        Time cost: 0.029s
+        Identifier: 
+        Proteins: 22 / 22
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Start Time: Thu Jun 20 13:26:55 2024
+        Time cost: 0.83s
+        Identifier: 
+        Proteins: 22 / 22
+[debug] Saved File0.Label0.Tmp2.pfd
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Start Time: Thu Jun 20 13:26:55 2024
+        Time cost: 0.019s
+        Identifier: 
+        Proteins: 22 / 22
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 20 13:26:55 2024
+
+[debug] Saved File0.Label0.Tmp3.pfd
+[pLink] Complete First search.
+
+[debug] Current time: Thu Jun 20 13:26:56 2024
+
+[debug] Start merging multiple...
+[debug] Current time: Thu Jun 20 13:26:56 2024
+
+[debug] Complete merging.
+
+[debug] Current time: Thu Jun 20 13:26:56 2024
+
+[debug] Start input tmp file...
+[debug] Current time: Thu Jun 20 13:26:56 2024
+
+[pLink] Load File0.Tmp.All.pfd.
+[debug] Complete input.
+
+[debug] Current time: Thu Jun 20 13:26:56 2024
+
+[debug] Start inferring...
+[debug] Complete infer.
+
+[pLink] Start re-ranking using SVM...
+[debug] Current time: Thu Jun 20 13:26:56 2024
+
+[pLink] Iteration: round 1/5
+[debug] Select positive and negative samples.
+[debug] Intra/Inter seperate FDR calculator.
+[debug] Positive Samples Size: 616
+[debug] Negative Samples Size: 792
+[debug] Systematic error: -0.0794
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=0	npos=37	nneg=43	npred=123
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=1	npos=360	nneg=41	npred=476
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Cease to iterative, since there are few positive samples in 2 peptide.
+[debug] Start running offline model for type 2...
+[debug] Saved predicting data predict.data.
+[debug] type=2	npred=13
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=3	npos=216	nneg=703	npred=2138
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[pLink] Iteration: round 2/5
+[debug] Select positive and negative samples.
+[debug] Intra/Inter seperate FDR calculator.
+[debug] Positive Samples Size: 1361
+[debug] Negative Samples Size: 792
+[debug] Systematic error: -0.0752
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=0	npos=43	nneg=43	npred=123
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=1	npos=372	nneg=41	npred=476
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Cease to iterative, since there are few positive samples in 2 peptide.
+[debug] Start running offline model for type 2...
+[debug] Saved predicting data predict.data.
+[debug] type=2	npred=13
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=3	npos=942	nneg=703	npred=2138
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[pLink] Iteration: round 3/5
+[debug] Select positive and negative samples.
+[debug] Intra/Inter seperate FDR calculator.
+[debug] Positive Samples Size: 1398
+[debug] Negative Samples Size: 792
+[debug] Systematic error: -0.0788
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=0	npos=42	nneg=43	npred=123
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=1	npos=374	nneg=41	npred=476
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Cease to iterative, since there are few positive samples in 2 peptide.
+[debug] Start running offline model for type 2...
+[debug] Saved predicting data predict.data.
+[debug] type=2	npred=13
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=3	npos=979	nneg=703	npred=2138
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[pLink] Iteration: round 4/5
+[debug] Select positive and negative samples.
+[debug] Intra/Inter seperate FDR calculator.
+[debug] Positive Samples Size: 1400
+[debug] Negative Samples Size: 792
+[debug] Systematic error: -0.0771
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=0	npos=43	nneg=43	npred=123
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=1	npos=375	nneg=41	npred=476
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Cease to iterative, since there are few positive samples in 2 peptide.
+[debug] Start running offline model for type 2...
+[debug] Saved predicting data predict.data.
+[debug] type=2	npred=13
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=3	npos=978	nneg=703	npred=2138
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[pLink] Iteration: round 5/5
+[debug] Select positive and negative samples.
+[debug] Intra/Inter seperate FDR calculator.
+[debug] Positive Samples Size: 1402
+[debug] Negative Samples Size: 793
+[debug] Systematic error: -0.0771
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=0	npos=43	nneg=43	npred=123
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=1	npos=376	nneg=41	npred=476
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Cease to iterative, since there are few positive samples in 2 peptide.
+[debug] Start running offline model for type 2...
+[debug] Saved predicting data predict.data.
+[debug] type=2	npred=13
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=3	npos=979	nneg=704	npred=2138
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Loop-Linked PSMs haven't been reranked due to few positive/negative samples
+[debug] Intra/Inter seperate FDR calculator.
+[debug] Saved Cas9_plus10_2024.06.20.File0.features.csv.
+[pLink] Complete re-rank.
+
+[debug] Current time: Thu Jun 20 13:26:57 2024
+
+[pLink] Saved Cas9_plus10_2024.06.20.File0.pfd.
+[pLink] Complete Searching XLpeplib_Beveridge_QEx-HFX_DSS_R1_HCDFT.pf2.
+
+[pLink] Start to generate reports...
+[debug] Loaded Cas9_plus10_2024.06.20.File0.pfd.
+[debug] Intra/Inter seperate FDR calculator.
+[debug] Intra/Inter seperate FDR calculator.
+[debug] Saved XLpeplib_Beveridge_QEx-HFX_DSS_R1_HCDFT.regular.plabel.
+[debug] Saved XLpeplib_Beveridge_QEx-HFX_DSS_R1_HCDFT.mono-linked.DSS.plabel.
+[debug] Saved XLpeplib_Beveridge_QEx-HFX_DSS_R1_HCDFT.loop-linked.DSS.plabel.
+[debug] Saved XLpeplib_Beveridge_QEx-HFX_DSS_R1_HCDFT.cross-linked.DSS.plabel.
+[debug] Save pLabels.
+[debug] Saved Cas9_plus10_2024.06.20.csv.
+[debug] Save Top-1 Results.
+[debug] Saved Cas9_plus10_2024.06.20.precursor_error_distribution.csv.
+[debug] Saved Cas9_plus10_2024.06.20.filtered_precursor_error_distribution.csv.
+[debug] Saved Cas9_plus10_2024.06.20.filtered_regular_spectra.csv.
+[debug] Saved Cas9_plus10_2024.06.20.filtered_mono-linked_spectra.csv.
+[debug] Saved Cas9_plus10_2024.06.20.filtered_loop-linked_spectra.csv.
+[debug] Saved Cas9_plus10_2024.06.20.filtered_cross-linked_spectra.csv.
+[debug] Saved Cas9_plus10_2024.06.20.filtered_regular_peptides.csv.
+[debug] Saved Cas9_plus10_2024.06.20.filtered_mono-linked_peptides.csv.
+[debug] Saved Cas9_plus10_2024.06.20.filtered_loop-linked_peptides.csv.
+[debug] Saved Cas9_plus10_2024.06.20.filtered_cross-linked_peptides.csv.
+[debug] Saved Cas9_plus10_2024.06.20.filtered_regular_proteins.csv.
+[debug] Saved Cas9_plus10_2024.06.20.filtered_mono-linked_sites.csv.
+[debug] Saved Cas9_plus10_2024.06.20.filtered_loop-linked_sites.csv.
+[debug] Saved Cas9_plus10_2024.06.20.filtered_cross-linked_sites.csv.
+[debug] Save Filtered Results.
+[debug] Saved Cas9_plus10_2024.06.20.summary.txt.
+[debug] Saved general.html.
+[debug] Saved regular_spectra.html.
+[debug] Saved mono-linked_spectra.html.
+[debug] Saved loop-linked_spectra.html.
+[debug] Saved cross-linked_spectra.html.
+[debug] Saved regular_peptides.html.
+[debug] Saved mono-linked_peptides.html.
+[debug] Saved loop-linked_peptides.html.
+[debug] Saved cross-linked_peptides.html.
+[debug] Saved regular_proteins.html.
+[debug] Saved mono-linked_proteins.html.
+[debug] Saved loop-linked_sites.html.
+[debug] Saved cross-linked_sites.html.
+[debug] Save HTMLs.
+[pLink] Complete report.

@@ -1,0 +1,985 @@
+[debug] Loading element settings...
+[debug] Loading Quant settings...
+[debug] Loading enzyme settings...
+[debug] Loading amino acids settings...
+[debug] Loading modification settings...
+[debug] Loading linker settings...
+[debug] Initialize constants...
+[debug] Loading sumo settings...
+[debug] Loading instrument settings...
+[debug] Loading database settings...
+[pLink] Generating reverse database...
+[pLink] Search identifier: CUNXU
+[pLink] Search Engine is ready to search.
+
+[debug] Initialize search state...
+[debug] Initialize thread state...
+[debug] Initialized Searcher::init()
+[debug] Preprocess Initialized.
+[debug] OpenScorer Initialized.
+[debug] OpenScorer Initialized.
+[debug] RefinedScorer Initialized.
+[debug] ModificationDecorator Initialized.
+[debug] XLink Initialized.
+[debug] Preprocess Initialized.
+[debug] OpenScorer Initialized.
+[debug] OpenScorer Initialized.
+[debug] RefinedScorer Initialized.
+[debug] ModificationDecorator Initialized.
+[debug] XLink Initialized.
+[debug] Preprocess Initialized.
+[debug] OpenScorer Initialized.
+[debug] OpenScorer Initialized.
+[debug] RefinedScorer Initialized.
+[debug] ModificationDecorator Initialized.
+[debug] XLink Initialized.
+[debug] Preprocess Initialized.
+[debug] OpenScorer Initialized.
+[debug] OpenScorer Initialized.
+[debug] RefinedScorer Initialized.
+[debug] ModificationDecorator Initialized.
+[debug] XLink Initialized.
+[pLink] Start searching C:\Users\P42587\PDStudies\ADH\20210604_QExHFX2_RSLC3_ADH_acidic-lib_sep_rep3_pl3_HCDFT.pf2, Labeling None
+[debug] Current time: Thu Jun 27 12:32:07 2024
+
+[pLink] Total spectra: 86337
+[pLink] Loaded 5000 spectra, 5000 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:32:07 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:32:07 2024
+
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:32:07 2024
+
+[debug] Peptide Bit Index Initialized.
+[pLink] Loaded 5000 spectra, 10000 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:32:07 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:32:07 2024
+
+[debug] Total Protein Number = 342
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:32:07 2024
+
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:32:07 2024
+
+[pLink] Loaded 5000 spectra, 15000 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:32:07 2024
+
+[debug] Peptide Bit Index Initialized.
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:32:07 2024
+
+[debug] Total Protein Number = 342
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:32:07 2024
+
+[pLink] Loaded 5000 spectra, 20000 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:32:07 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:32:08 2024
+
+[debug] Start Time: Thu Jun 27 12:32:07 2024
+        Time cost: 0.481s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:32:08 2024
+
+[debug] Peptide Bit Index Initialized.
+[debug] Total Protein Number = 342
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:32:08 2024
+
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:32:08 2024
+
+[debug] Peptide Bit Index Initialized.
+[debug] Total Protein Number = 342
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:32:08 2024
+
+[debug] Start Time: Thu Jun 27 12:32:07 2024
+        Time cost: 0.727s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Start Time: Thu Jun 27 12:32:08 2024
+        Time cost: 0.513s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Start Time: Thu Jun 27 12:32:08 2024
+        Time cost: 0.713s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:32:23 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:32:23 2024
+
+[debug] Start Time: Thu Jun 27 12:32:07 2024
+        Time cost: 16.03s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:32:23 2024
+
+[debug] Start Time: Thu Jun 27 12:32:23 2024
+        Time cost: 0.227s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:32:24 2024
+
+[debug] Saved File0.Label0.Tmp0.pfd
+[pLink] Loaded 5000 spectra, 25000 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:32:24 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:32:24 2024
+
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:32:25 2024
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:32:25 2024
+
+[debug] Start Time: Thu Jun 27 12:32:25 2024
+        Time cost: 0.688s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:32:38 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:32:38 2024
+
+[debug] Start Time: Thu Jun 27 12:32:07 2024
+        Time cost: 30.889s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:32:39 2024
+
+[debug] Start Time: Thu Jun 27 12:32:39 2024
+        Time cost: 0.229s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:32:39 2024
+
+[debug] Saved File0.Label0.Tmp1.pfd
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:32:40 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:32:40 2024
+
+[pLink] Loaded 5000 spectra, 30000 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:32:40 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:32:40 2024
+
+[debug] Start Time: Thu Jun 27 12:32:08 2024
+        Time cost: 32.551s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:32:40 2024
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:32:40 2024
+
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:32:40 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:32:40 2024
+
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:32:41 2024
+
+[debug] Start Time: Thu Jun 27 12:32:08 2024
+        Time cost: 32.735s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Start Time: Thu Jun 27 12:32:40 2024
+        Time cost: 0.481s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Start Time: Thu Jun 27 12:32:41 2024
+        Time cost: 0.24s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:32:41 2024
+
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:32:41 2024
+
+[debug] Start Time: Thu Jun 27 12:32:41 2024
+        Time cost: 0.258s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:32:42 2024
+
+[debug] Saved File0.Label0.Tmp2.pfd
+[pLink] Loaded 5000 spectra, 35000 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:32:42 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:32:42 2024
+
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:32:43 2024
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:32:43 2024
+
+[debug] Saved File0.Label0.Tmp3.pfd
+[pLink] Loaded 5000 spectra, 40000 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:32:43 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:32:43 2024
+
+[debug] Start Time: Thu Jun 27 12:32:43 2024
+        Time cost: 0.507s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:32:43 2024
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:32:43 2024
+
+[debug] Start Time: Thu Jun 27 12:32:43 2024
+        Time cost: 0.453s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:32:57 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:32:57 2024
+
+[debug] Start Time: Thu Jun 27 12:32:25 2024
+        Time cost: 32.256s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:32:57 2024
+
+[debug] Start Time: Thu Jun 27 12:32:57 2024
+        Time cost: 0.272s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:32:58 2024
+
+[debug] Saved File0.Label0.Tmp4.pfd
+[pLink] Loaded 5000 spectra, 45000 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:32:59 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:32:59 2024
+
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:32:59 2024
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:32:59 2024
+
+[debug] Start Time: Thu Jun 27 12:32:59 2024
+        Time cost: 0.43s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:33:09 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:33:09 2024
+
+[debug] Start Time: Thu Jun 27 12:32:40 2024
+        Time cost: 29.092s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:33:10 2024
+
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:33:10 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:33:10 2024
+
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:33:10 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:33:10 2024
+
+[debug] Start Time: Thu Jun 27 12:33:10 2024
+        Time cost: 0.231s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Start Time: Thu Jun 27 12:32:43 2024
+        Time cost: 27.34s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Start Time: Thu Jun 27 12:32:43 2024
+        Time cost: 26.685s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:33:10 2024
+
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:33:10 2024
+
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:33:10 2024
+
+[debug] Start Time: Thu Jun 27 12:33:10 2024
+        Time cost: 0.228s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Start Time: Thu Jun 27 12:33:10 2024
+        Time cost: 0.227s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:33:11 2024
+
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:33:11 2024
+
+[debug] Saved File0.Label0.Tmp5.pfd
+[pLink] Loaded 5000 spectra, 50000 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:33:11 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:33:11 2024
+
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:33:11 2024
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:33:11 2024
+
+[debug] Saved File0.Label0.Tmp6.pfd
+[debug] Saved File0.Label0.Tmp7.pfd
+[debug] Start Time: Thu Jun 27 12:33:11 2024
+        Time cost: 0.418s
+        Identifier: 
+        Proteins: 342 / 342
+[pLink] Loaded 5000 spectra, 55000 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:33:12 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:33:12 2024
+
+[pLink] Loaded 5000 spectra, 60000 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:33:12 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:33:12 2024
+
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:33:12 2024
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:33:12 2024
+
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:33:12 2024
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:33:12 2024
+
+[debug] Start Time: Thu Jun 27 12:33:12 2024
+        Time cost: 0.401s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Start Time: Thu Jun 27 12:33:12 2024
+        Time cost: 0.451s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:33:23 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:33:23 2024
+
+[debug] Start Time: Thu Jun 27 12:32:59 2024
+        Time cost: 23.735s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:33:23 2024
+
+[debug] Start Time: Thu Jun 27 12:33:23 2024
+        Time cost: 0.226s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:33:24 2024
+
+[debug] Saved File0.Label0.Tmp8.pfd
+[pLink] Loaded 5000 spectra, 65000 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:33:24 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:33:24 2024
+
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:33:25 2024
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:33:25 2024
+
+[debug] Start Time: Thu Jun 27 12:33:25 2024
+        Time cost: 0.888s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:33:34 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:33:34 2024
+
+[debug] Start Time: Thu Jun 27 12:33:12 2024
+        Time cost: 22.392s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:33:35 2024
+
+[debug] Start Time: Thu Jun 27 12:33:35 2024
+        Time cost: 0.243s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:33:35 2024
+
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:33:36 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:33:36 2024
+
+[debug] Start Time: Thu Jun 27 12:33:12 2024
+        Time cost: 23.325s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Saved File0.Label0.Tmp10.pfd
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:33:36 2024
+
+[pLink] Loaded 5000 spectra, 70000 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:33:36 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:33:36 2024
+
+[debug] Start Time: Thu Jun 27 12:33:36 2024
+        Time cost: 0.245s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:33:36 2024
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:33:36 2024
+
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:33:36 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:33:36 2024
+
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:33:37 2024
+
+[debug] Start Time: Thu Jun 27 12:33:11 2024
+        Time cost: 25.23s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Start Time: Thu Jun 27 12:33:36 2024
+        Time cost: 0.421s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:33:37 2024
+
+[debug] Saved File0.Label0.Tmp11.pfd
+[debug] Start Time: Thu Jun 27 12:33:37 2024
+        Time cost: 0.226s
+        Identifier: 
+        Proteins: 342 / 342
+[pLink] Loaded 5000 spectra, 75000 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:33:37 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:33:37 2024
+
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:33:38 2024
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:33:38 2024
+
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:33:38 2024
+
+[debug] Start Time: Thu Jun 27 12:33:38 2024
+        Time cost: 0.415s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Saved File0.Label0.Tmp9.pfd
+[pLink] Loaded 5000 spectra, 80000 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:33:38 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:33:38 2024
+
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:33:39 2024
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:33:39 2024
+
+[debug] Start Time: Thu Jun 27 12:33:39 2024
+        Time cost: 0.432s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:33:48 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:33:48 2024
+
+[debug] Start Time: Thu Jun 27 12:33:25 2024
+        Time cost: 23.419s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:33:48 2024
+
+[debug] Start Time: Thu Jun 27 12:33:48 2024
+        Time cost: 0.247s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:33:49 2024
+
+[debug] Saved File0.Label0.Tmp12.pfd
+[pLink] Loaded 5000 spectra, 85000 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:33:50 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:33:50 2024
+
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:33:50 2024
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:33:50 2024
+
+[debug] Start Time: Thu Jun 27 12:33:50 2024
+        Time cost: 0.395s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:34:00 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:34:00 2024
+
+[debug] Start Time: Thu Jun 27 12:33:36 2024
+        Time cost: 23.816s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:34:00 2024
+
+[debug] Start Time: Thu Jun 27 12:34:00 2024
+        Time cost: 0.222s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:34:01 2024
+
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:34:01 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:34:01 2024
+
+[debug] Start Time: Thu Jun 27 12:33:38 2024
+        Time cost: 23.759s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:34:01 2024
+
+[debug] Saved File0.Label0.Tmp13.pfd
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:34:02 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:34:02 2024
+
+[pLink] Loaded 1337 spectra, 86337 / 86337
+[debug] init match results...
+[debug] Current time: Thu Jun 27 12:34:02 2024
+
+[debug] Spectra preprocessing...
+[debug] Current time: Thu Jun 27 12:34:02 2024
+
+[debug] Start Time: Thu Jun 27 12:34:01 2024
+        Time cost: 0.245s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Creating peptide index...
+[debug] Current time: Thu Jun 27 12:34:02 2024
+
+[debug] Searching alpha peptide...
+[debug] Current time: Thu Jun 27 12:34:02 2024
+
+[debug] Start Time: Thu Jun 27 12:33:39 2024
+        Time cost: 23.342s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:34:02 2024
+
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:34:02 2024
+
+[debug] Start Time: Thu Jun 27 12:34:02 2024
+        Time cost: 0.412s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Start Time: Thu Jun 27 12:34:02 2024
+        Time cost: 0.22s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Saved File0.Label0.Tmp14.pfd
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:34:03 2024
+
+[debug] Saved File0.Label0.Tmp15.pfd
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:34:04 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:34:04 2024
+
+[debug] Searching beta peptide...
+[debug] Computing the possible mass of the other peptide...
+[debug] Current time: Thu Jun 27 12:34:05 2024
+
+[debug] Searching the other peptide...
+[debug] Current time: Thu Jun 27 12:34:05 2024
+
+[debug] Start Time: Thu Jun 27 12:33:50 2024
+        Time cost: 14.679s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:34:05 2024
+
+[debug] Start Time: Thu Jun 27 12:34:02 2024
+        Time cost: 2.928s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Searching linear peptide...
+[debug] Current time: Thu Jun 27 12:34:05 2024
+
+[debug] Start Time: Thu Jun 27 12:34:05 2024
+        Time cost: 0.175s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Start Time: Thu Jun 27 12:34:05 2024
+        Time cost: 0.182s
+        Identifier: 
+        Proteins: 342 / 342
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:34:05 2024
+
+[debug] Writing temporary file...
+[debug] Current time: Thu Jun 27 12:34:05 2024
+
+[debug] Saved File0.Label0.Tmp17.pfd
+[debug] Saved File0.Label0.Tmp16.pfd
+[pLink] Complete First search.
+
+[debug] Current time: Thu Jun 27 12:34:05 2024
+
+[debug] Start merging multiple...
+[debug] Current time: Thu Jun 27 12:34:05 2024
+
+[debug] Complete merging.
+
+[debug] Current time: Thu Jun 27 12:34:06 2024
+
+[debug] Start input tmp file...
+[debug] Current time: Thu Jun 27 12:34:06 2024
+
+[pLink] Load File0.Tmp.All.pfd.
+[debug] Complete input.
+
+[debug] Current time: Thu Jun 27 12:34:08 2024
+
+[debug] Start inferring...
+[debug] Complete infer.
+
+[pLink] Start re-ranking using SVM...
+[debug] Current time: Thu Jun 27 12:34:08 2024
+
+[pLink] Iteration: round 1/5
+[debug] Select positive and negative samples.
+[debug] Intra/Inter seperate FDR calculator.
+[debug] Positive Samples Size: 7110
+[debug] Negative Samples Size: 19406
+[debug] Systematic error: 0.2990
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=0	npos=578	nneg=4585	npred=9889
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=1	npos=6451	nneg=4398	npred=16561
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Cease to iterative, since there are few positive samples in 2 peptide.
+[debug] Start running offline model for type 2...
+[debug] Saved predicting data predict.data.
+[debug] type=2	npred=3407
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=3	npos=81	nneg=8668	npred=13058
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[pLink] Iteration: round 2/5
+[debug] Select positive and negative samples.
+[debug] Intra/Inter seperate FDR calculator.
+[debug] Positive Samples Size: 8083
+[debug] Negative Samples Size: 19406
+[debug] Systematic error: 0.3003
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=0	npos=655	nneg=4585	npred=9889
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=1	npos=7234	nneg=4398	npred=16561
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Cease to iterative, since there are few positive samples in 2 peptide.
+[debug] Start running offline model for type 2...
+[debug] Saved predicting data predict.data.
+[debug] type=2	npred=3407
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=3	npos=194	nneg=8668	npred=13058
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[pLink] Iteration: round 3/5
+[debug] Select positive and negative samples.
+[debug] Intra/Inter seperate FDR calculator.
+[debug] Positive Samples Size: 8324
+[debug] Negative Samples Size: 19407
+[debug] Systematic error: 0.3006
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=0	npos=678	nneg=4585	npred=9889
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=1	npos=7376	nneg=4399	npred=16561
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Cease to iterative, since there are few positive samples in 2 peptide.
+[debug] Start running offline model for type 2...
+[debug] Saved predicting data predict.data.
+[debug] type=2	npred=3407
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=3	npos=270	nneg=8668	npred=13058
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[pLink] Iteration: round 4/5
+[debug] Select positive and negative samples.
+[debug] Intra/Inter seperate FDR calculator.
+[debug] Positive Samples Size: 8416
+[debug] Negative Samples Size: 19406
+[debug] Systematic error: 0.2981
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=0	npos=687	nneg=4585	npred=9889
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=1	npos=7445	nneg=4398	npred=16561
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Cease to iterative, since there are few positive samples in 2 peptide.
+[debug] Start running offline model for type 2...
+[debug] Saved predicting data predict.data.
+[debug] type=2	npred=3407
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=3	npos=284	nneg=8668	npred=13058
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[pLink] Iteration: round 5/5
+[debug] Select positive and negative samples.
+[debug] Intra/Inter seperate FDR calculator.
+[debug] Positive Samples Size: 8458
+[debug] Negative Samples Size: 19406
+[debug] Systematic error: 0.2970
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=0	npos=687	nneg=4585	npred=9889
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=1	npos=7478	nneg=4398	npred=16561
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Cease to iterative, since there are few positive samples in 2 peptide.
+[debug] Start running offline model for type 2...
+[debug] Saved predicting data predict.data.
+[debug] type=2	npred=3407
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Saved training data train.data.
+[debug] Begin to train SVM...
+[debug] Saved predicting data predict.data.
+[debug] type=3	npos=293	nneg=8668	npred=13058
+[debug] Begin to predict.
+[debug] Loaded predicted values predict.data.output.
+[debug] Loop-Linked PSMs haven't been reranked due to few positive/negative samples
+[debug] Intra/Inter seperate FDR calculator.
+[debug] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.File0.features.csv.
+[pLink] Complete re-rank.
+
+[debug] Current time: Thu Jun 27 12:34:28 2024
+
+[pLink] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.File0.pfd.
+[pLink] Complete Searching 20210604_QExHFX2_RSLC3_ADH_acidic-lib_sep_rep3_pl3_HCDFT.pf2.
+
+[pLink] Start to generate reports...
+[debug] Loaded Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.File0.pfd.
+[debug] Intra/Inter seperate FDR calculator.
+[debug] Intra/Inter seperate FDR calculator.
+[debug] Saved 20210604_QExHFX2_RSLC3_ADH_acidic-lib_sep_rep3_pl3_HCDFT.regular.plabel.
+[debug] Saved 20210604_QExHFX2_RSLC3_ADH_acidic-lib_sep_rep3_pl3_HCDFT.mono-linked.ADH.plabel.
+[debug] Saved 20210604_QExHFX2_RSLC3_ADH_acidic-lib_sep_rep3_pl3_HCDFT.cross-linked.ADH.plabel.
+[debug] Save pLabels.
+[debug] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.csv.
+[debug] Save Top-1 Results.
+[debug] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.precursor_error_distribution.csv.
+[debug] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.filtered_precursor_error_distribution.csv.
+[debug] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.filtered_regular_spectra.csv.
+[debug] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.filtered_mono-linked_spectra.csv.
+[debug] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.filtered_loop-linked_spectra.csv.
+[debug] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.filtered_cross-linked_spectra.csv.
+[debug] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.filtered_regular_peptides.csv.
+[debug] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.filtered_mono-linked_peptides.csv.
+[debug] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.filtered_loop-linked_peptides.csv.
+[debug] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.filtered_cross-linked_peptides.csv.
+[debug] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.filtered_regular_proteins.csv.
+[debug] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.filtered_mono-linked_sites.csv.
+[debug] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.filtered_loop-linked_sites.csv.
+[debug] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.filtered_cross-linked_sites.csv.
+[debug] Save Filtered Results.
+[debug] Saved Ribosome_for_XL_all_contained_Proteins_from_shotgun_2024.06.27.summary.txt.
+[debug] Saved general.html.
+[debug] Saved regular_spectra.html.
+[debug] Saved mono-linked_spectra.html.
+[debug] Saved loop-linked_spectra.html.
+[debug] Saved cross-linked_spectra.html.
+[debug] Saved regular_peptides.html.
+[debug] Saved mono-linked_peptides.html.
+[debug] Saved loop-linked_peptides.html.
+[debug] Saved cross-linked_peptides.html.
+[debug] Saved regular_proteins.html.
+[debug] Saved mono-linked_proteins.html.
+[debug] Saved loop-linked_sites.html.
+[debug] Saved cross-linked_sites.html.
+[debug] Save HTMLs.
+[pLink] Complete report.

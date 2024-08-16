@@ -1,0 +1,2 @@
+Protein_Order,Protein,Unique_Peptide_Number,Spectrum_Number
+,Spectrum_Order,Title,Charge,Precursor_Mass,Peptide,Peptide_Mass,Modifications,Evalue,Score,Precursor_Mass_Error(Da),Precursor_Mass_Error(ppm),Alpha_Evalue,Beta_Evalue

@@ -1,0 +1,8 @@
+python create_fasta.py
+Loaded 3069 proteins from json (should 3069).
+True
+Loaded 26695 proteins from fasta (should be 26695).
+True
+Found 3069 proteins to keep (should be 3069).
+True
+Wrote fasta file: filtered_uniprotkb_proteome_UP000001940_2024_03_15.fasta

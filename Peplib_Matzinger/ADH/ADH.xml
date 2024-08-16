@@ -1,0 +1,21 @@
+﻿<Modifications>
+  <Modification Version="1" Name="ADH" Abbreviation="ADH" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="138.09054635" DeltaAverageMass="138.09054635" IsSubstitution="False" LeavingGroup="" Substitution="H(10) C(6) N(4)" PositionType="Any" IsCrossLink="True">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs&gt;
+    &lt;CrosslinkTargetPair LeftTarget="D" RightTarget="D" /&gt;
+    &lt;CrosslinkTargetPair LeftTarget="D" RightTarget="E" /&gt;
+    &lt;CrosslinkTargetPair LeftTarget="E" RightTarget="D" /&gt;
+    &lt;CrosslinkTargetPair LeftTarget="E" RightTarget="E" /&gt;
+  &lt;/CrosslinkTargetPairs&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="D" Classification="Crosslink" />
+      <Target AminoAcid="E" Classification="Crosslink" />
+    </ModificationTargets>
+  </Modification>
+</Modifications>

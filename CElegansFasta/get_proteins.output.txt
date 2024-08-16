@@ -1,0 +1,5 @@
+python get_proteins.py
+Found 2506 in S1.
+Found 2331 in S2.
+Found 2137 in S3.
+Found 3069 in total.

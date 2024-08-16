@@ -1,0 +1,12 @@
+[FilePath]
+File_Path=C:\Users\P42587\Downloads\New folder\XLpeplib_Beveridge_QEx-HFX_DSS_R2_HCDFT.mgf
+[Modification]
+1=Oxidation[M]
+2=Carbamidomethyl[C]
+[xlink]
+xlink=DSS
+[Total]
+total=1
+[Spectrum1]
+name=XLPEPLIB_BEVERIDGE_QEX-HFX_DSS_R2.14220.14220.2.0.DTA
+pep1=2 1 8 KLVDSTDKADLR 1 

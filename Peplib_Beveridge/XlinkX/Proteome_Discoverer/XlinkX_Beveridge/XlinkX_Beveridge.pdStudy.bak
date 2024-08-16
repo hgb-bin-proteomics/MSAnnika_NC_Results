@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Study>
+	<StudyDefinition Version="1" CreationDate="6/29/2024 1:17:37 AM" LastChangeDate="6/29/2024 1:57:12 AM" Name="XlinkX_Beveridge" Description="" StudyType="General" Directory="C:\Users\User\Documents\XlinkX_Beveridge" NextFileSetNumber="4" NextSampleNumber="4">
+		<Factors />
+		<FileSets>
+			<FileSet Name="XLpeplib_Beveridge_QEx-HFX_DSS_R1" Version="1" Id="d1010c8a-7d43-4a8c-89d5-5ca4dec27163" SampleFileSetNumber="1">
+				<Files>
+					<File FileName="C:\Users\User\Downloads\XLpeplib_Beveridge_QEx-HFX_DSS_R1.raw" FileType=".raw" FileTime="6/29/2024 1:19:48 AM" FileSize="960697429 [Byte]" FileUri="file:///C:/Users/User/Downloads/XLpeplib_Beveridge_QEx-HFX_DSS_R1.raw" FractionNumber="1" />
+				</Files>
+			</FileSet>
+			<FileSet Name="XLpeplib_Beveridge_QEx-HFX_DSS_R3" Version="1" Id="eb9fd5a2-3324-4264-abc5-18d7f261b9a9" SampleFileSetNumber="2">
+				<Files>
+					<File FileName="C:\Users\User\Downloads\XLpeplib_Beveridge_QEx-HFX_DSS_R3.raw" FileType=".raw" FileTime="6/29/2024 1:19:19 AM" FileSize="957586750 [Byte]" FileUri="file:///C:/Users/User/Downloads/XLpeplib_Beveridge_QEx-HFX_DSS_R3.raw" FractionNumber="1" />
+				</Files>
+			</FileSet>
+			<FileSet Name="XLpeplib_Beveridge_QEx-HFX_DSS_R2" Version="1" Id="349950d8-eff8-4a4b-afc3-b76e7b801229" SampleFileSetNumber="3">
+				<Files>
+					<File FileName="C:\Users\User\Downloads\XLpeplib_Beveridge_QEx-HFX_DSS_R2.raw" FileType=".raw" FileTime="6/29/2024 1:19:03 AM" FileSize="935886259 [Byte]" FileUri="file:///C:/Users/User/Downloads/XLpeplib_Beveridge_QEx-HFX_DSS_R2.raw" FractionNumber="1" />
+				</Files>
+			</FileSet>
+		</FileSets>
+		<QuanMethods />
+		<Samples>
+			<Sample Name="XLpeplib_Beveridge_QEx-HFX_DSS_R1" SampleType="Sample" Version="1" Id="d0075862-6c8c-4ae3-8e19-941f32666300" FileSetId="d1010c8a-7d43-4a8c-89d5-5ca4dec27163" SampleNumber="1">
+				<FactorValues />
+			</Sample>
+			<Sample Name="XLpeplib_Beveridge_QEx-HFX_DSS_R3" SampleType="Sample" Version="1" Id="e105484f-cf81-42ed-8f2e-4e8ab82d705d" FileSetId="eb9fd5a2-3324-4264-abc5-18d7f261b9a9" SampleNumber="2">
+				<FactorValues />
+			</Sample>
+			<Sample Name="XLpeplib_Beveridge_QEx-HFX_DSS_R2" SampleType="Sample" Version="1" Id="f48a4cf4-af8b-4f22-a8cb-4e07ed6045ef" FileSetId="349950d8-eff8-4a4b-afc3-b76e7b801229" SampleNumber="3">
+				<FactorValues />
+			</Sample>
+		</Samples>
+		<StudyDefinitionExtensions>
+			<StudyDefinitionExtension ExtensionGuid="2B9D51EE-1C86-47A0-B328-C732B4B81388">
+				<QuantitationMethods Version="1" />
+			</StudyDefinitionExtension>
+		</StudyDefinitionExtensions>
+	</StudyDefinition>
+	<AnalysisResults NextResultNumber="3" />
+	<AnalysisResultsLoadingErrors />
+</Study>
