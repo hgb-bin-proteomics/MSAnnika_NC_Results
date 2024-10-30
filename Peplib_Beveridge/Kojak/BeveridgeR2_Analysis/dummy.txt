@@ -1,0 +1,2 @@
+PSMId	score	q-value	posterior_error_prob	peptide	proteinIds
+dummy	0	1	1	-.ALELFRKDM[15.99]ASNYKELGFQG(7)--APLTKPLK(5).-	sp|CRP_HUMAN|	sp|CRP_HUMAN|
