@@ -1,0 +1,29 @@
+Xolik.exe --database Ribosome_for_XL_all_contained_Proteins_from_shotgun.fasta --spectrum 20210531_QExHFX2_RSLC3_ADH_acidic-lib_sep_rep2.mzML --output resultR2.csv --miss 3 --min 600 --max 6000 --xlsite D --xlmass 138.09054635 --ms1tol 5 --ms2tol 0.02 --parallel --thread 24 --fixmod C+57.021464 --varmod M+15.994915
+Xolik version 0.3 (Apr 20 2018, 10:08:29)
+Database:              Ribosome_for_XL_all_contained_Proteins_from_shotgun.fasta
+Spectra:               20210531_QExHFX2_RSLC3_ADH_acidic-lib_sep_rep2.mzML
+Output path:           resultR2.csv
+Use linear-time mode:  true
+Append decoy:          true
+Maximum miss cleavage: 3
+Minimum peptide mass:  600.00 Da
+Maximum peptide mass:  6000.00 Da
+Cross-linked site:     D
+Cross linker mass:     138.090546 Da
+MS1 tolerance:         5.00 ppm
+MS2 tolerance:         0.0200 Da
+Score threshold:       0.0001
+Enable rank filter:    false
+Use E-value:           true
+Histogram size:        30000
+Parallel computing:    true
+Number of threads:     24
+Enzyme:                trypsin
+Output rank:           false
+Fixed mods:            C +57.021464 Da
+Variable mods:         M +15.994915 Da
+>> Begin at Wed Oct 30 21:53:58 2024
+>> Preparing data...
+>> Searching...
+>> End at Wed Oct 30 21:54:04 2024
+>> Elapsed: 6.14332s

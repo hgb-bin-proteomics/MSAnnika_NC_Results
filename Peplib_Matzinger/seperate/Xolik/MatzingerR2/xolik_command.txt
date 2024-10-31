@@ -1,0 +1,1 @@
+Xolik.exe --database Ribosome_for_XL_all_contained_Proteins_from_shotgun.fasta --spectrum 20210531_QExHFX2_RSLC3_ADH_acidic-lib_sep_rep2.mzML --output resultR2.csv --miss 3 --min 600 --max 6000 --xlsite D --xlmass 138.09054635 --ms1tol 5 --ms2tol 0.02 --parallel --thread 24 --fixmod C+57.021464 --varmod M+15.994915
