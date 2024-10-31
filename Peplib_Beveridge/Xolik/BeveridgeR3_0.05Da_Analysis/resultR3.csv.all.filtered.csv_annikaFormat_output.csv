@@ -1,0 +1,4 @@
+Sequence A,Sequence B,Accession A,Accession B,Position in protein A,Position in protein B,Score crosslink,Within same group
+SKLVSDFR,SKLVSDFR,Cas9,Cas9,0,0,18.1318,TRUE
+MDGTEELLVKLNR,MDGTEELLVKLNR,Cas9,Cas9,0,0,14.6979,TRUE
+SEQELGKATAK,SEQELGKATAK,Cas9,Cas9,0,0,18.3626,FALSE

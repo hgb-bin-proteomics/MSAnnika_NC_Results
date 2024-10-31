@@ -1,0 +1,29 @@
+Xolik.exe --database Cas9_plus10.fasta --spectrum XLpeplib_Beveridge_QEx-HFX_DSS_R3.mzML --output resultR3.csv --miss 3 --min 500 --max 6000 --xlsite K --xlmass 138.06808 --ms1tol 5 --ms2tol 0.02 --parallel --thread 24 --fixmod C+57.021464 --varmod M+15.994915
+Xolik version 0.3 (Apr 20 2018, 10:08:29)
+Database:              Cas9_plus10.fasta
+Spectra:               XLpeplib_Beveridge_QEx-HFX_DSS_R3.mzML
+Output path:           resultR3.csv
+Use linear-time mode:  true
+Append decoy:          true
+Maximum miss cleavage: 3
+Minimum peptide mass:  500.00 Da
+Maximum peptide mass:  6000.00 Da
+Cross-linked site:     K
+Cross linker mass:     138.068080 Da
+MS1 tolerance:         5.00 ppm
+MS2 tolerance:         0.0200 Da
+Score threshold:       0.0001
+Enable rank filter:    false
+Use E-value:           true
+Histogram size:        30000
+Parallel computing:    true
+Number of threads:     24
+Enzyme:                trypsin
+Output rank:           false
+Fixed mods:            C +57.021464 Da
+Variable mods:         M +15.994915 Da
+>> Begin at Wed Oct 30 21:14:12 2024
+>> Preparing data...
+>> Searching...
+>> End at Wed Oct 30 21:14:14 2024
+>> Elapsed: 2.05792s
