@@ -14,7 +14,7 @@ The structure of this repository is as follows:
 - `Peplib_Matzinger`: Analysis of the results form the crosslink search using the dataset by Matzinger and co-workers ([PXD029252](https://www.ebi.ac.uk/pride/archive/projects/PXD029252))
 - `Xi_Annika_scripts`: Miscellaneous scripts to aid in the processing of xi output files
 
-For details please refer to the MS Annika 3.0 publication (wip)!
+For details please refer to the [MS Annika 3.0 publication](https://doi.org/10.1038/s42004-024-01386-x)!
 
 ## Contact
 
